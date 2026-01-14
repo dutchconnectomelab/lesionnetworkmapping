@@ -2,15 +2,7 @@
 
 This repository contains example scripts for **Lesion Network Mapping (LNM)** and **symptom Lesion Network Mapping (sLNM)** analyses using voxel-wise Lead-DBS workflows and atlas-based connectivity matrices.
  
----
-
-## Getting Started
-
-A video abstract of Lesion Network Mapping and compressed implementation can be found at:
-https://youtu.be/IIISJPYg7Eo
-
----
-
+--
 
 ## Notes
 
@@ -121,6 +113,10 @@ Jenkinson M et al. (2012). “FSL.” NeuroImage, doi: 10.1016/j.neuroimage.2011
 
 FreeSurfer resources — © Massachusetts General Hospital.
 
+Video abstract
+---------
+A video abstract of Lesion Network Mapping and compressed implementation can be found at:
+https://youtu.be/IIISJPYg7Eo
 
 Citation
 ---------
