@@ -1,7 +1,7 @@
 # Lesion Network Mapping (LNM) – Example Scripts
 
 This repository contains example scripts for **Lesion Network Mapping (LNM)** and **symptom Lesion Network Mapping (sLNM)** analyses using voxel-wise Lead-DBS workflows and atlas-based connectivity matrices.
-
+ 
 ---
 
 ## Notes
