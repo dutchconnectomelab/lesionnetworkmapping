@@ -4,6 +4,14 @@ This repository contains example scripts for **Lesion Network Mapping (LNM)** an
  
 ---
 
+## Getting Started
+
+A video abstract of Lesion Network Mapping and compressed implementation can be found at:
+https://youtu.be/IIISJPYg7Eo
+
+---
+
+
 ## Notes
 
 - Scripts were developed and tested on **macOS (iMac, x86_64)**  
