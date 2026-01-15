@@ -122,5 +122,5 @@ Citation
 ---------
 
 If you use any scripts, data, or resources from this repository in academic work, please cite the following paper:
-van den Heuvel, M. P., Libedinsky, I., Quiroz Monnens, S., Repple, J., Sommer, I., & Cocchi, L.  Investigating the methodological foundation of lesion network mapping. Nature Neuroscience (2025). https://doi.org/10.1038/s41593-025-02196-7
+van den Heuvel, M. P., Libedinsky, I., Quiroz Monnens, S., Repple, J., Sommer, I., & Cocchi, L.  Investigating the methodological foundation of lesion network mapping. Nature Neuroscience (2025). https://www.nature.com/articles/s41593-025-02196-7
 
