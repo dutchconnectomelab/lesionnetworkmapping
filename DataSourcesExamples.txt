@@ -25,16 +25,10 @@ ZARIFKAR_APHASIA. Brain Commun. 2023;5(6):fcad288. Published 2023 Oct 27. doi:10
 
 ADDICTION. Nat Med. 2022 Jun;28(6):1249-1255. doi: 10.1038/s41591-022-01834-y.
 AGENCY. Proc Natl Acad Sci U S A. 2018 Oct 16;115(42):10792-10797. doi: 10.1073/pnas.1814117115.
-AMUSIA. J Neurosci. 2024;44(15):e1922232024. Published 2024 Apr 10. doi:10.1523/JNEUROSCI.1922-23.2024.
 APHASIA_RECOVERY. Sci Data. 2024 Sep 9;11(1):981. doi: 10.1038/s41597-024-03819-7.
-APRAXIA. Brain Commun. 2023;5(6):fcad288. Published 2023 Oct 27. doi:10.1093/braincomms/fcad288.
-CREATIVITY. Proc Natl Acad Sci U S A. 2018;115(3):601-606. doi:10.1073/pnas.1706587115.
-DELUSION. Brain. 2017 Feb;140(2):497-507. doi: 10.1093/brain/aww288.
 DLPFC_TMS. Biol Psychiatry. 2018 Jul 1;84(1):28-37. doi: 10.1016/j.biopsych.2017.10.028.
 EPILEPSY. Nat Commun. 2025 Mar 24;16(1):2783. doi: 10.1038/s41467-025-57392-7.
-GAIT. Ann Neurol. 2017;81(1):129-141. doi:10.1002/ana.24845.
 LESYMAP. Neuropsychologia. 2018 Jul 1;115:112-123. doi: 10.1016/j.neuropsychologia.2017.08.025. dorianps/LESYMAP: v0.0.0.9201.
-MANIA. J Affect Disord. 2019;244:115-123. doi:10.1016/j.jad.2018.10.087.
 MDDDLPFC_TMS. Biol Psychiatry. 2018 Jul 1;84(1):28-37. doi: 10.1016/j.biopsych.2017.10.028.
 MIGRAINE. Brain. 2020 Feb 1;143(2):541-553. doi: 10.1093/brain/awz405.
 NEGLECT. Brain. 2024 Jun 3;147(6):2203-2213. doi: 10.1093/brain/awae059
